@@ -16,7 +16,7 @@
 12. [コミュニケーションの重要性](#コミュニケーションの重要性)
 13. [システム開発における価値観](#システム開発における価値観)
 14. [ビジネス・人生に対する考え方](#ビジネス人生に対する考え方)
-15. [好きな技術書](#好きな技術書)
+15. [好きな技術書・教材](#好きな技術書教材)
 
 ---
 
@@ -163,10 +163,46 @@
 
 ---
 
-## 好きな技術書
+## 好きな技術書・教材
 
-- **SICP JS版（Structure and Interpretation of Computer Programs JavaScript
-  Edition）**
-  - 抽象化や計算モデルの理解に役立つ
-  - 関数型プログラミング、状態管理、再帰などの思想が身につく
-  - コンパイラやインタープリター実装への理解が深まった
+### コンピュータサイエンス・システム系
+
+- **コンパイラ ― 原理と構造（大堀淳）**\
+  ▶️
+  [YouTube講義シリーズ](https://www.youtube.com/watch?v=gsJAqde7Rs4&list=PLp1bKoc7XHdQwbHaUzMryG6WpnN4JdR6P)
+- **コンピュータの構成と設計**
+- **入門モダンLinux**
+
+### 数学・理論
+
+- **線形代数シリーズ（3Blue1Brown / Alicia Solid Project）**\
+  https://www.youtube.com/watch?v=wVipLySksnE&list=PLhDAH9aTfnxKfmufxF59vaZECZJD5j6rd
+- **しっかり学ぶ数理最適化**
+- **プログラミングのための確率統計**
+- **位相への30講**
+- **パターン認識**
+
+### 関数型・型・言語理論
+
+- **Haskellによる関数プログラミングの思考法**
+- **Haskell in Depth**
+- **型システムの仕組み**
+
+### ネットワーク・セキュリティ
+
+- **プロフェッショナルTLS & PKI**
+- **ハイパフォーマンス&ブラウザネットワーキング**
+
+### 定理証明・論理系
+
+- **定理証明見習い**
+
+### データベース
+
+- **データベースシステム（オーム社）**\
+  ▶️ [CMU Database Group チャンネル](https://www.youtube.com/c/CMUDatabaseGroup)
+
+### その他
+
+- **SICP JS版**\
+  抽象化、状態、再帰の理解に役立つ名著
