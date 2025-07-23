@@ -20,6 +20,7 @@
 14. [趣味・興味](#趣味興味)
 15. [ビジネス・人生に対する考え方](#ビジネス人生に対する考え方)
 16. [最近のトレンド情報の収集方法](#最近のトレンド情報の収集方法)
+17. [技術記事で主にお世話になった有名エンジニア](#技術記事で主にお世話になった有名エンジニア)
 
 ---
 
@@ -204,3 +205,24 @@
 - **Cybozu Frontend Monthly**\
   フロントエンドに特化した情報が定期的に公開されている。YouTube動画もあり、記事ピックアップのセンスが自分の好みに合っている。\
   ▶️ [Cybozu Frontend Monthly](https://cybozu.github.io/frontend-monthly/)
+
+---
+
+## 技術記事で主にお世話になった有名エンジニア
+
+- **uhyo さん**  
+  TypeScriptやReactに関する記事や書籍が非常に充実しており、特に型レベルの設計やReactのライフサイクルに関する理解を深める際に多く参照させていただいた。文章が明快で、背景や設計意図の説明が丁寧なため、継続的に学習の助けになっている。
+
+  - [React の use の設計をRFCから理解する](https://zenn.dev/uhyo/articles/react-use-rfc)
+  - [React 17 の useEffect 仕様変更について](https://zenn.dev/uhyo/articles/react17-useeffect)
+  - [Next.js なしで学ぶ React Server Components](https://zenn.dev/uhyo/books/rsc-without-nextjs)
+  - [React Concurrent Hands-on](https://zenn.dev/uhyo/books/react-concurrent-handson)
+  - [書籍『プロを目指す人のためのTypeScript入門』](https://gihyo.jp/book/2022/978-4-297-12747-3)
+  - [型の強さを活かした TypeScript のコーディング](https://qiita.com/uhyo/items/de4cb2085fdbdf484b83)
+  - [TypeScript で型レベルの map をやってみる](https://qiita.com/uhyo/items/6a3b14950c1ef6974024)
+  - [useCallback の理解を深めるカスタム Hook の実装例](https://blog.uhy.ooo/entry/2021-02-23/usecallback-custom-hooks/)
+
+- **Dan Abramov さん**  
+  React の設計思想や使い方の背景を深く掘り下げた技術記事が多く、特に `useEffect` の正しい使い方や落とし穴についての解説は React に対する理解を深める上で非常に参考になった。
+
+  - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
