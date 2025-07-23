@@ -19,6 +19,7 @@
 13. [理想の就業形態](#理想の就業形態)
 14. [趣味・興味](#趣味興味)
 15. [ビジネス・人生に対する考え方](#ビジネス人生に対する考え方)
+16. [最近のトレンド情報の収集方法](#最近のトレンド情報の収集方法)
 
 ---
 
@@ -191,3 +192,15 @@
 ## 好きな技術書・教材
 
 詳細は[こちら](./Books.md)をご覧ください。
+
+---
+
+## 最近のトレンド情報の収集方法
+
+- **O'Reilly Radar Topics**\
+  毎月更新される網羅的なテックトレンドのまとめで、最新動向を効率的に把握できる。\
+  ▶️ [O'Reilly Radar Topics](https://www.oreilly.com/radar/topics/radar-trends/)
+
+- **Cybozu Frontend Monthly**\
+  フロントエンドに特化した情報が定期的に公開されている。YouTube動画もあり、記事ピックアップのセンスが自分の好みに合っている。\
+  ▶️ [Cybozu Frontend Monthly](https://cybozu.github.io/frontend-monthly/)
