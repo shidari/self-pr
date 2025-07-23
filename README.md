@@ -19,3 +19,14 @@
 関心のある技術書・参考書の一覧です。
 
 ▶️ [Books.md](./Books.md)
+
+## 💼 ポートフォリオ
+
+個人開発プロジェクトや職務に関連するアウトプットを紹介しています。
+
+- GitHub リポジトリ:\
+  ▶️ [my-hello-work-job-list](https://github.com/shidari/my-hello-work-job-list)
+
+- 詳細な実装・設計情報:\
+  ▶️
+  [PORTFOLIO_DETAIL.md](https://github.com/shidari/my-hello-work-job-list/blob/main/PORTFOLIO_DETAIL.md)
