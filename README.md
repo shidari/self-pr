@@ -169,40 +169,81 @@
 
 - **コンパイラ ― 原理と構造（大堀淳）**\
   ▶️
-  [YouTube講義シリーズ](https://www.youtube.com/watch?v=gsJAqde7Rs4&list=PLp1bKoc7XHdQwbHaUzMryG6WpnN4JdR6P)
-- **コンピュータの構成と設計**
+  [YouTube講義シリーズ](https://www.youtube.com/watch?v=gsJAqde7Rs4&list=PLp1bKoc7XHdQwbHaUzMryG6WpnN4JdR6P)\
+  🔗
+  [Google検索リンク](https://www.google.com/search?client=safari&rls=en&q=%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E5%8E%9F%E7%90%86%E3%81%A8%E6%A7%8B%E9%80%A0&ie=UTF-8&oe=UTF-8)
+
+- **コンピュータの構成と設計**\
+  ▶️ [日経BP 書籍ページ](https://bookplus.nikkei.com/atcl/catalog/21/S70090/)\
+  大元のコンピュータアーキテクチャがわかってなくて、現在周回中
+
 - **入門モダンLinux**
 
 ### 数学・理論
 
-- **線形代数シリーズ（3Blue1Brown / Alicia Solid Project）**\
-  https://www.youtube.com/watch?v=wVipLySksnE&list=PLhDAH9aTfnxKfmufxF59vaZECZJD5j6rd
-- **しっかり学ぶ数理最適化**
+- **線形代数シリーズ（Alicia Solid Project）**\
+  特に「固有値分解」と「特異値分解」の回が神だった\
+  ▶️
+  [YouTubeプレイリスト](https://www.youtube.com/watch?v=wVipLySksnE&list=PLhDAH9aTfnxKfmufxF59vaZECZJD5j6rd)
+
+- **しっかり学ぶ数理最適化**\
+  ▶️ [講談社書籍ページ](https://www.kspub.co.jp/book/detail/5212707.html)\
+  LLMの理解のために勉強中
+
 - **プログラミングのための確率統計**
+
 - **位相への30講**
+
 - **パターン認識**
 
 ### 関数型・型・言語理論
 
-- **Haskellによる関数プログラミングの思考法**
-- **Haskell in Depth**
+- **Haskellによる関数プログラミングの思考法**\
+  ▶️
+  [Amazonリンク](https://www.amazon.co.jp/Haskellによる関数プログラミングの思考法-Richard-Bird/dp/4048930532/ref=pd_lpo_d_sccl_2/355-5106874-4958122?pd_rd_w=Gvi16&content-id=amzn1.sym.855d8f70-df76-4181-80b0-56e48ae3bb9b&pf_rd_p=855d8f70-df76-4181-80b0-56e48ae3bb9b&pf_rd_r=JZYJFD9PQY5K59YT3PGV&pd_rd_wg=Cq0Bl&pd_rd_r=f731f57e-3245-456e-bb94-697126f6576d&pd_rd_i=4048930532&psc=1)
+
+- **Haskell in Depth**\
+  ▶️ [Manning 書籍ページ](https://www.manning.com/books/haskell-in-depth)\
+  Haskell公式Docsの intermediate level に載っていたので購入。Type class 101
+  の章が面白い
+
 - **型システムの仕組み**
+
+- **純粋関数型データ構造（Chris Okasaki）**\
+  ▶️ [Amazonリンク](https://www.amazon.co.jp/dp/4048930567)
+
+- **プログラム意味論の基礎**\
+  プログラムを数学の証明のように書き下すという説明に共感\
+  ▶️
+  [出版社リンク（サイエンス社）](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1483-1&y=2020)
 
 ### ネットワーク・セキュリティ
 
-- **プロフェッショナルTLS & PKI**
-- **ハイパフォーマンス&ブラウザネットワーキング**
+- **プロフェッショナルTLS & PKI**\
+  ▶️ [Lambdaノート書籍ページ](https://www.lambdanote.com/products/tls-pki-2)
+
+- **ハイパフォーマンス&ブラウザネットワーキング**\
+  ▶️ [オライリー書籍ページ](https://www.oreilly.co.jp/books/9784873116761/)\
+  低レイヤーの理解が進み、読み物としても面白い
+
+- **コンピュータネットワーク 第6版（アンドリュー・S・タネンバウム）**\
+  ▶️
+  [Amazonリンク](https://www.amazon.co.jp/コンピュータネットワーク第6版-アンドリュー・S・タネンバウム/dp/4296070428)\
+  登大遊さんがどこかの記事で薦めていたので購入。分厚いが懇切丁寧で通読しやすく、現在周回中
 
 ### 定理証明・論理系
 
-- **定理証明見習い**
+- **定理証明見習い**\
+  ▶️ [Lambdaノート書籍ページ](https://www.lambdanote.com/products/littleprover)
 
 ### データベース
 
 - **データベースシステム（オーム社）**\
+  ▶️ [書籍ページ（オーム社）](https://www.ohmsha.co.jp/book/9784274225161/)\
   ▶️ [CMU Database Group チャンネル](https://www.youtube.com/c/CMUDatabaseGroup)
 
 ### その他
 
 - **SICP JS版**\
-  抽象化、状態、再帰の理解に役立つ名著
+  抽象化、状態、再帰の理解に役立つ名著\
+  ▶️ [オンライン教材（Source Academy）](https://sourceacademy.org/sicpjs/)
